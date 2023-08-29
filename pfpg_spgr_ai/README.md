@@ -1,2 +1,0 @@
-# Profilbildgenerator 
-## SPGR NR23
